@@ -78,7 +78,7 @@
         /* Stats Grid */
         .stats-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
             gap: 20px;
             margin-bottom: 40px;
         }
@@ -114,7 +114,6 @@
 
         .stat-card.success::after { background: var(--success); }
         .stat-card.warning::after { background: var(--warning); }
-        .stat-card.purple::after { background: var(--purple); }
 
         .stat-label {
             font-size: 0.85rem;
@@ -254,7 +253,6 @@
         .badge.blue { background: var(--accent-glow); color: #60a5fa; border: 1px solid rgba(59, 130, 246, 0.3); }
         .badge.success { background: var(--success-glow); color: #34d399; border: 1px solid rgba(16, 185, 129, 0.3); }
         .badge.warning { background: rgba(245, 158, 11, 0.15); color: #fbbf24; border: 1px solid rgba(245, 158, 11, 0.3); }
-        .badge.purple { background: rgba(139, 92, 246, 0.15); color: #a78bfa; border: 1px solid rgba(139, 92, 246, 0.3); }
 
         .btn-action {
             display: inline-flex;
@@ -320,33 +318,26 @@
 
     <div class="stats-grid">
         <div class="stat-card">
-            <div class="stat-label">Vorschau-Websites</div>
+            <div class="stat-label">Website Proposals Deployed</div>
             <div class="stat-val" id="stat-proposals">0</div>
-            <div class="stat-desc">Erstellte Layout-Prototypen</div>
+            <div class="stat-desc">Erstellte Layout-Vorschauen für Kunden</div>
         </div>
         <div class="stat-card success">
-            <div class="stat-label">Angewandte Backlinks</div>
-            <div class="stat-val" id="stat-backlinks">0</div>
-            <div class="stat-desc">Eingereichte Backlink-Anträge</div>
+            <div class="stat-label">Backlink Emails Sent</div>
+            <div class="stat-val" id="stat-sent-emails">0</div>
+            <div class="stat-desc">Erfolgreich versendete Kooperations-Anfragen</div>
         </div>
         <div class="stat-card warning">
-            <div class="stat-label">E-Mail Kampagnen</div>
-            <div class="stat-val" id="stat-campaigns">0</div>
-            <div class="stat-desc">Outreach E-Mails vorbereitet</div>
-        </div>
-        <div class="stat-card purple">
-            <div class="stat-label">Social Replies</div>
-            <div class="stat-val" id="stat-replies">0</div>
-            <div class="stat-desc">Antworten auf Quora / Reddit</div>
+            <div class="stat-label">Pending Backlink Emails</div>
+            <div class="stat-val" id="stat-pending-emails">0</div>
+            <div class="stat-desc">Vorbereitete, ausstehende E-Mail-Pitches</div>
         </div>
     </div>
 
     <div class="controls-bar">
         <div class="tabs">
             <button class="tab-btn active" onclick="switchTab('websites')">Website Proposals</button>
-            <button class="tab-btn" onclick="switchTab('backlinks')">Backlinks</button>
-            <button class="tab-btn" onclick="switchTab('campaigns')">Campaigns</button>
-            <button class="tab-btn" onclick="switchTab('replies')">Social Replies</button>
+            <button class="tab-btn" onclick="switchTab('backlinks_sent')">Backlink Emails Sent</button>
         </div>
         <div class="filter-panel">
             <input type="text" class="search-input" id="search" placeholder="Suche..." oninput="renderCurrentTab()">
@@ -372,9 +363,9 @@
     let dashboardData = {
         last_updated: "",
         website_leads: [],
-        applied_backlinks: [],
-        outreach_campaigns: [],
-        replies: []
+        backlinks_sent: [],
+        backlinks_sent_count: 0,
+        backlinks_pending_count: 0
     };
 
     let currentTab = "websites";
@@ -395,9 +386,8 @@
     function updateStats() {
         document.getElementById("last-update").innerText = `Letztes Update: ${dashboardData.last_updated}`;
         document.getElementById("stat-proposals").innerText = dashboardData.website_leads.length;
-        document.getElementById("stat-backlinks").innerText = dashboardData.applied_backlinks.length;
-        document.getElementById("stat-campaigns").innerText = dashboardData.outreach_campaigns.length;
-        document.getElementById("stat-replies").innerText = dashboardData.replies.length;
+        document.getElementById("stat-sent-emails").innerText = dashboardData.backlinks_sent_count;
+        document.getElementById("stat-pending-emails").innerText = dashboardData.backlinks_pending_count;
     }
 
     function switchTab(tabName) {
@@ -467,37 +457,7 @@
                     </td>
                 </tr>
             `);
-        } else if (currentTab === "backlinks") {
-            htmlHeader = `
-                <tr>
-                    <th>Datum</th>
-                    <th>Plattform</th>
-                    <th>Domain</th>
-                    <th>DR / DA</th>
-                    <th>Typ</th>
-                    <th>Status</th>
-                    <th>Zielseite</th>
-                    <th>Live Link</th>
-                </tr>
-            `;
-            rows = dashboardData.applied_backlinks.filter(item => 
-                (item.domain || "").toLowerCase().includes(search) || 
-                (item.platform || "").toLowerCase().includes(search)
-            ).map(item => `
-                <tr>
-                    <td>${item.date || ""}</td>
-                    <td style="font-weight: 600;">${item.platform || ""}</td>
-                    <td>${item.domain || ""}</td>
-                    <td><span class="badge purple">${item.dr_da || ""}</span></td>
-                    <td>${item.type || ""}</td>
-                    <td><span class="badge success">${item.status || ""}</span></td>
-                    <td><span style="font-size:0.8rem; color: var(--text-muted);">${item.target_page || ""}</span></td>
-                    <td>
-                        ${item.live_url ? `<a href="${item.live_url}" target="_blank" class="btn-action">Link</a>` : '<span style="color: var(--text-muted);">-</span>'}
-                    </td>
-                </tr>
-            `);
-        } else if (currentTab === "campaigns") {
+        } else if (currentTab === "backlinks_sent") {
             htmlHeader = `
                 <tr>
                     <th>Datum</th>
@@ -508,10 +468,11 @@
                     <th>Status</th>
                 </tr>
             `;
-            rows = dashboardData.outreach_campaigns.filter(item => 
+            rows = dashboardData.backlinks_sent.filter(item => 
                 (item.name || "").toLowerCase().includes(search) || 
                 (item.niche || "").toLowerCase().includes(search) || 
-                (item.email || "").toLowerCase().includes(search)
+                (item.email || "").toLowerCase().includes(search) ||
+                (item.city || "").toLowerCase().includes(search)
             ).map(item => `
                 <tr>
                     <td>${item.date || ""}</td>
@@ -519,25 +480,7 @@
                     <td>${item.niche || ""}</td>
                     <td>${item.email || ""}</td>
                     <td>${item.city || ""}</td>
-                    <td><span class="badge blue">${item.status || "Ready"}</span></td>
-                </tr>
-            `);
-        } else if (currentTab === "replies") {
-            htmlHeader = `
-                <tr>
-                    <th>Plattform</th>
-                    <th>Titel</th>
-                    <th>Status</th>
-                </tr>
-            `;
-            rows = dashboardData.replies.filter(item => 
-                (item.title || "").toLowerCase().includes(search) || 
-                (item.platform || "").toLowerCase().includes(search)
-            ).map(item => `
-                <tr>
-                    <td style="font-weight: 600; text-transform: uppercase;">${item.platform || "Quora"}</td>
-                    <td>${item.title || ""}</td>
-                    <td><span class="badge success">${item.status || "Erfolgreich"}</span></td>
+                    <td><span class="badge success">Gesendet</span></td>
                 </tr>
             `);
         }
