@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27 10:12:17",
+  "last_updated": "2026-07-27 11:15:10",
   "website_leads": [
     {
       "date": "2026-07-24",
@@ -360,8 +360,28 @@
       "status": "Applied",
       "live_url": "Pending Submission on reddit.com/r/reactjs",
       "target_page": "https://hallodesk.de/ki-website-sprachagent"
+    },
+    {
+      "date": "2026-07-27",
+      "platform": "https://www.linkedin.com/posts/kin-foo_one-of-the-most-common-use-of-ai-agents-is-activity-7338173654440026113-wKKO",
+      "domain": "https://www.linkedin.com/posts/kin-foo_one-of-the-most-common-use-of-ai-agents-is-activity-7338173654440026113-wKKO",
+      "dr_da": "99",
+      "type": "Guest Post",
+      "status": "Applied",
+      "live_url": "Pending Submission on https://www.linkedin.com/posts/kin-foo_one-of-the-most-common-use-of-ai-agents-is-activity-7338173654440026113-wKKO",
+      "target_page": "https://hallodesk.de/ki-rezeptionistin-fuer-unternehmen"
+    },
+    {
+      "date": "2026-07-27",
+      "platform": "Reddit r/golang",
+      "domain": "reddit.com/r/golang",
+      "dr_da": "99",
+      "type": "Forum",
+      "status": "Applied",
+      "live_url": "Pending Submission on reddit.com/r/golang",
+      "target_page": "https://hallodesk.de/ki-website-sprachagent"
     }
   ],
-  "backlinks_sent_count": 16,
-  "backlinks_total_count": 120
+  "backlinks_sent_count": 18,
+  "backlinks_total_count": 122
 }
