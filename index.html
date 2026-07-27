@@ -328,9 +328,9 @@
             <div class="stat-desc">Erfolgreich versendete Kooperations-Anfragen</div>
         </div>
         <div class="stat-card warning">
-            <div class="stat-label">Pending Backlink Emails</div>
-            <div class="stat-val" id="stat-pending-emails">0</div>
-            <div class="stat-desc">Vorbereitete, ausstehende E-Mail-Pitches</div>
+            <div class="stat-label">Total Backlinks Submitted</div>
+            <div class="stat-val" id="stat-total-backlinks">0</div>
+            <div class="stat-desc">Gesamte eingereichte Backlink-Bewerbungen</div>
         </div>
     </div>
 
@@ -365,7 +365,7 @@
         website_leads: [],
         backlinks_sent: [],
         backlinks_sent_count: 0,
-        backlinks_pending_count: 0
+        backlinks_total_count: 0
     };
 
     let currentTab = "websites";
@@ -387,7 +387,7 @@
         document.getElementById("last-update").innerText = `Letztes Update: ${dashboardData.last_updated}`;
         document.getElementById("stat-proposals").innerText = dashboardData.website_leads.length;
         document.getElementById("stat-sent-emails").innerText = dashboardData.backlinks_sent_count;
-        document.getElementById("stat-pending-emails").innerText = dashboardData.backlinks_pending_count;
+        document.getElementById("stat-total-backlinks").innerText = dashboardData.backlinks_total_count;
     }
 
     function switchTab(tabName) {
