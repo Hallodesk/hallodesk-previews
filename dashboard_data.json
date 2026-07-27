@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26 15:13:10",
+  "last_updated": "2026-07-27 10:12:17",
   "website_leads": [
     {
       "date": "2026-07-24",
@@ -110,6 +110,94 @@
       "reviews": 0,
       "status": "Preview Deployed — Email Pending",
       "url": "https://hallodesk.github.io/hallodesk-previews/preview_milchzahn_5821.html"
+    },
+    {
+      "date": "2026-07-27",
+      "name": "Iris Sieg",
+      "city": "Hamburg",
+      "niche": "Friseursalon",
+      "phone": "+49 40 787969",
+      "rating": 4.7,
+      "reviews": 74,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_iris_sieg_6632.html"
+    },
+    {
+      "date": "2026-07-27",
+      "name": "Tappendorfs Frisurenmode",
+      "city": "Hamburg",
+      "niche": "Friseursalon",
+      "phone": "+49 40 6404940",
+      "rating": 4.7,
+      "reviews": 0,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_tappendorfs_frisurenmo_4141.html"
+    },
+    {
+      "date": "2026-07-27",
+      "name": "Dr. Thomas Niedermeier",
+      "city": "Hamburg",
+      "niche": "Zahnarzt Praxis",
+      "phone": "+49 4124 4998",
+      "rating": 4.7,
+      "reviews": 0,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_dr__thomas_niedermeier_3452.html"
+    },
+    {
+      "date": "2026-07-27",
+      "name": "Heeren",
+      "city": "Hamburg",
+      "niche": "Zahnarzt Praxis",
+      "phone": "Auf Anfrage",
+      "rating": null,
+      "reviews": 0,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_heeren_9390.html"
+    },
+    {
+      "date": "2026-07-27",
+      "name": "Herr Hermann Mainka-Delecate",
+      "city": "Hamburg",
+      "niche": "Zahnarzt Praxis",
+      "phone": "+49 40 6003020",
+      "rating": 3.1,
+      "reviews": 0,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_herr_hermann_mainka_de_1527.html"
+    },
+    {
+      "date": "2026-07-27",
+      "name": "Zahnärztin Antje Schnorr-Finck",
+      "city": "Hamburg",
+      "niche": "Zahnarzt Praxis",
+      "phone": "+49 40 616242",
+      "rating": 5.0,
+      "reviews": 19,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_zahn_rztin_antje_schno_8970.html"
+    },
+    {
+      "date": "2026-07-27",
+      "name": "Zahnarztpraxis Fuhlsbüttel Dr. Müller",
+      "city": "Hamburg",
+      "niche": "Zahnarzt Praxis",
+      "phone": "+49 40 596790",
+      "rating": 5.0,
+      "reviews": 26,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_zahnarztpraxis_fuhlsb__5861.html"
+    },
+    {
+      "date": "2026-07-27",
+      "name": "Hamburg",
+      "city": "Hamburg",
+      "niche": "Zahnarzt Praxis",
+      "phone": "Auf Anfrage",
+      "rating": null,
+      "reviews": 0,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_hamburg_1883.html"
     }
   ],
   "backlinks_sent": [
