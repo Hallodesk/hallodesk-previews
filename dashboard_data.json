@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27 11:15:10",
+  "last_updated": "2026-07-27 11:22:07",
   "website_leads": [
     {
       "date": "2026-07-24",
@@ -42,7 +42,7 @@
       "phone": "Auf Anfrage",
       "rating": null,
       "reviews": 0,
-      "status": "Preview Deployed — Email Pending",
+      "status": "Email Sent",
       "url": "https://hallodesk.github.io/hallodesk-previews/preview_hairtistic_4324.html"
     },
     {
@@ -53,7 +53,7 @@
       "phone": "+49 7154 8056322",
       "rating": null,
       "reviews": 0,
-      "status": "Preview Deployed — Email Pending",
+      "status": "Email Sent",
       "url": "https://hallodesk.github.io/hallodesk-previews/preview_performance_cut_6350.html"
     },
     {
@@ -119,7 +119,7 @@
       "phone": "+49 40 787969",
       "rating": 4.7,
       "reviews": 74,
-      "status": "Preview Deployed — Email Pending",
+      "status": "No Email Found",
       "url": "https://hallodesk.github.io/hallodesk-previews/preview_iris_sieg_6632.html"
     },
     {
@@ -130,7 +130,7 @@
       "phone": "+49 40 6404940",
       "rating": 4.7,
       "reviews": 0,
-      "status": "Preview Deployed — Email Pending",
+      "status": "No Email Found",
       "url": "https://hallodesk.github.io/hallodesk-previews/preview_tappendorfs_frisurenmo_4141.html"
     },
     {
@@ -141,7 +141,7 @@
       "phone": "+49 4124 4998",
       "rating": 4.7,
       "reviews": 0,
-      "status": "Preview Deployed — Email Pending",
+      "status": "No Email Found",
       "url": "https://hallodesk.github.io/hallodesk-previews/preview_dr__thomas_niedermeier_3452.html"
     },
     {
@@ -152,7 +152,7 @@
       "phone": "Auf Anfrage",
       "rating": null,
       "reviews": 0,
-      "status": "Preview Deployed — Email Pending",
+      "status": "No Email Found",
       "url": "https://hallodesk.github.io/hallodesk-previews/preview_heeren_9390.html"
     },
     {
@@ -163,7 +163,7 @@
       "phone": "+49 40 6003020",
       "rating": 3.1,
       "reviews": 0,
-      "status": "Preview Deployed — Email Pending",
+      "status": "No Email Found",
       "url": "https://hallodesk.github.io/hallodesk-previews/preview_herr_hermann_mainka_de_1527.html"
     },
     {
@@ -174,7 +174,7 @@
       "phone": "+49 40 616242",
       "rating": 5.0,
       "reviews": 19,
-      "status": "Preview Deployed — Email Pending",
+      "status": "No Email Found",
       "url": "https://hallodesk.github.io/hallodesk-previews/preview_zahn_rztin_antje_schno_8970.html"
     },
     {
@@ -185,7 +185,7 @@
       "phone": "+49 40 596790",
       "rating": 5.0,
       "reviews": 26,
-      "status": "Preview Deployed — Email Pending",
+      "status": "No Email Found",
       "url": "https://hallodesk.github.io/hallodesk-previews/preview_zahnarztpraxis_fuhlsb__5861.html"
     },
     {
@@ -196,7 +196,7 @@
       "phone": "Auf Anfrage",
       "rating": null,
       "reviews": 0,
-      "status": "Preview Deployed — Email Pending",
+      "status": "No Email Found",
       "url": "https://hallodesk.github.io/hallodesk-previews/preview_hamburg_1883.html"
     }
   ],
