@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28 10:01:27",
+  "last_updated": "2026-07-28 14:33:26",
   "website_leads": [
     {
       "date": "2026-07-24",
@@ -198,6 +198,226 @@
       "reviews": 0,
       "status": "No Email Found",
       "url": "https://hallodesk.github.io/hallodesk-previews/preview_hamburg_1883.html"
+    },
+    {
+      "date": "2026-07-28",
+      "name": "Gaststätte Immergrün",
+      "city": "Salzgitter",
+      "niche": "Restaurant",
+      "phone": "Auf Anfrage",
+      "rating": 3.6,
+      "reviews": 0,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_gastst_tte_immergr_n_9788.html"
+    },
+    {
+      "date": "2026-07-28",
+      "name": "Elektro Weikert Inh. Henry Weikert e.K.",
+      "city": "Salzgitter",
+      "niche": "Elektriker",
+      "phone": "+49 5341 9887",
+      "rating": 4.8,
+      "reviews": 4,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_elektro_weikert_inh__h_8124.html"
+    },
+    {
+      "date": "2026-07-28",
+      "name": "Friseur Bellissima",
+      "city": "Salzgitter",
+      "niche": "Friseursalon",
+      "phone": "+49 5344 920453",
+      "rating": 4.5,
+      "reviews": 30,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_friseur_bellissima_7032.html"
+    },
+    {
+      "date": "2026-07-28",
+      "name": "Monika Piskors Friseurstübchen",
+      "city": "Salzgitter",
+      "niche": "Friseursalon",
+      "phone": "+49 5341 392905",
+      "rating": 4.5,
+      "reviews": 0,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_monika_piskors_friseur_5113.html"
+    },
+    {
+      "date": "2026-07-28",
+      "name": "Kebab Werk Neukirchen",
+      "city": "Moers",
+      "niche": "Restaurant",
+      "phone": "+49 2845 3842387",
+      "rating": 4.0,
+      "reviews": 0,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_kebab_werk_neukirchen_7467.html"
+    },
+    {
+      "date": "2026-07-28",
+      "name": "Esin Özmen Zahnärztin",
+      "city": "Siegen",
+      "niche": "Zahnarzt Praxis",
+      "phone": "+49 271 3132190",
+      "rating": 4.7,
+      "reviews": 67,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_esin__zmen_zahn_rztin_9171.html"
+    },
+    {
+      "date": "2026-07-28",
+      "name": "Herr Dr. med. dent. Wolfgang Sonneborn",
+      "city": "Siegen",
+      "niche": "Zahnarzt Praxis",
+      "phone": "+49 271 339952",
+      "rating": 5.0,
+      "reviews": 0,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_herr_dr__med__dent__wo_2754.html"
+    },
+    {
+      "date": "2026-07-28",
+      "name": "Herr Dr. Ulrich Schaake",
+      "city": "Siegen",
+      "niche": "Zahnarzt Praxis",
+      "phone": "+49 271 501796",
+      "rating": 3.8,
+      "reviews": 0,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_herr_dr__ulrich_schaak_1765.html"
+    },
+    {
+      "date": "2026-07-28",
+      "name": "Kieferorthopädische Fachpraxis Dr. Monica Sluka",
+      "city": "Siegen",
+      "niche": "Zahnarzt Praxis",
+      "phone": "+49 271 45858",
+      "rating": 2.6,
+      "reviews": 9,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_kieferorthop_dische_fa_9534.html"
+    },
+    {
+      "date": "2026-07-28",
+      "name": "Luxury Nails & Spa",
+      "city": "Siegen",
+      "niche": "Kosmetikstudio",
+      "phone": "+49 271 25026508",
+      "rating": 1.8,
+      "reviews": 33,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_luxury_nails___spa_8704.html"
+    },
+    {
+      "date": "2026-07-28",
+      "name": "Gaststätte Immergrün",
+      "city": "Salzgitter",
+      "niche": "Restaurant",
+      "phone": "Auf Anfrage",
+      "rating": 3.6,
+      "reviews": 0,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_gastst_tte_immergr_n_9788.html"
+    },
+    {
+      "date": "2026-07-28",
+      "name": "Elektro Weikert Inh. Henry Weikert e.K.",
+      "city": "Salzgitter",
+      "niche": "Elektriker",
+      "phone": "+49 5341 9887",
+      "rating": 4.8,
+      "reviews": 4,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_elektro_weikert_inh__h_8124.html"
+    },
+    {
+      "date": "2026-07-28",
+      "name": "Friseur Bellissima",
+      "city": "Salzgitter",
+      "niche": "Friseursalon",
+      "phone": "+49 5344 920453",
+      "rating": 4.5,
+      "reviews": 30,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_friseur_bellissima_7032.html"
+    },
+    {
+      "date": "2026-07-28",
+      "name": "Monika Piskors Friseurstübchen",
+      "city": "Salzgitter",
+      "niche": "Friseursalon",
+      "phone": "+49 5341 392905",
+      "rating": 4.5,
+      "reviews": 0,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_monika_piskors_friseur_5113.html"
+    },
+    {
+      "date": "2026-07-28",
+      "name": "Kebab Werk Neukirchen",
+      "city": "Moers",
+      "niche": "Restaurant",
+      "phone": "+49 2845 3842387",
+      "rating": 4.0,
+      "reviews": 0,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_kebab_werk_neukirchen_7467.html"
+    },
+    {
+      "date": "2026-07-28",
+      "name": "Esin Özmen Zahnärztin",
+      "city": "Siegen",
+      "niche": "Zahnarzt Praxis",
+      "phone": "+49 271 3132190",
+      "rating": 4.7,
+      "reviews": 67,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_esin__zmen_zahn_rztin_9171.html"
+    },
+    {
+      "date": "2026-07-28",
+      "name": "Herr Dr. med. dent. Wolfgang Sonneborn",
+      "city": "Siegen",
+      "niche": "Zahnarzt Praxis",
+      "phone": "+49 271 339952",
+      "rating": 5.0,
+      "reviews": 0,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_herr_dr__med__dent__wo_2754.html"
+    },
+    {
+      "date": "2026-07-28",
+      "name": "Herr Dr. Ulrich Schaake",
+      "city": "Siegen",
+      "niche": "Zahnarzt Praxis",
+      "phone": "+49 271 501796",
+      "rating": 3.8,
+      "reviews": 0,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_herr_dr__ulrich_schaak_1765.html"
+    },
+    {
+      "date": "2026-07-28",
+      "name": "Kieferorthopädische Fachpraxis Dr. Monica Sluka",
+      "city": "Siegen",
+      "niche": "Zahnarzt Praxis",
+      "phone": "+49 271 45858",
+      "rating": 2.6,
+      "reviews": 9,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_kieferorthop_dische_fa_9534.html"
+    },
+    {
+      "date": "2026-07-28",
+      "name": "Luxury Nails & Spa",
+      "city": "Siegen",
+      "niche": "Kosmetikstudio",
+      "phone": "+49 271 25026508",
+      "rating": 1.8,
+      "reviews": 33,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_luxury_nails___spa_8704.html"
     }
   ],
   "backlinks_sent": [
