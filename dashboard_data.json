@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30 10:16:37",
+  "last_updated": "2026-07-31 10:19:12",
   "website_leads": [
     {
       "date": "2026-07-24",
@@ -638,6 +638,226 @@
       "reviews": 48,
       "status": "Preview Deployed — Email Pending",
       "url": "https://hallodesk.github.io/hallodesk-previews/preview_hannelore_s_haarstudio_2087.html"
+    },
+    {
+      "date": "2026-07-31",
+      "name": "NoNameBoxX (US) Car-Service",
+      "city": "Stuttgart",
+      "niche": "KFZ-Meisterbetrieb",
+      "phone": "+49 7151 9860235",
+      "rating": 4.8,
+      "reviews": 0,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_nonameboxx__us__car_se_4172.html"
+    },
+    {
+      "date": "2026-07-31",
+      "name": "Sanku Maots'ai 三顾冒菜",
+      "city": "Stuttgart",
+      "niche": "Restaurant",
+      "phone": "+49 711 99778196",
+      "rating": 4.6,
+      "reviews": 0,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_sanku_maots_ai______2820.html"
+    },
+    {
+      "date": "2026-07-31",
+      "name": "Weiler Hof",
+      "city": "Stuttgart",
+      "niche": "Restaurant",
+      "phone": "Auf Anfrage",
+      "rating": 4.6,
+      "reviews": 13,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_weiler_hof_1267.html"
+    },
+    {
+      "date": "2026-07-31",
+      "name": "Ristorante Bellagio By Rene",
+      "city": "Stuttgart",
+      "niche": "Restaurant",
+      "phone": "+49 711 50482235",
+      "rating": 3.2,
+      "reviews": 29,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_ristorante_bellagio_by_6140.html"
+    },
+    {
+      "date": "2026-07-31",
+      "name": "Gaststätte Himmerreich",
+      "city": "Stuttgart",
+      "niche": "Restaurant",
+      "phone": "+49 711 6993150",
+      "rating": 4.1,
+      "reviews": 0,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_gastst_tte_himmerreich_1098.html"
+    },
+    {
+      "date": "2026-07-31",
+      "name": "Trippel M American Diner",
+      "city": "Stuttgart",
+      "niche": "Restaurant",
+      "phone": "+49 711 25510227",
+      "rating": 4.1,
+      "reviews": 0,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_trippel_m_american_din_3780.html"
+    },
+    {
+      "date": "2026-07-31",
+      "name": "Herr Dr. med. dent. Jürgen Laufs",
+      "city": "Düsseldorf",
+      "niche": "Zahnarzt Praxis",
+      "phone": "+49 211 743039",
+      "rating": 4.1,
+      "reviews": 0,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_herr_dr__med__dent__j__1920.html"
+    },
+    {
+      "date": "2026-07-31",
+      "name": "Zahnarzt Dr. med. dent. Sebastian Winkler",
+      "city": "Düsseldorf",
+      "niche": "Zahnarzt Praxis",
+      "phone": "+49 2137 999230",
+      "rating": 3.6,
+      "reviews": 0,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_zahnarzt_dr__med__dent_2621.html"
+    },
+    {
+      "date": "2026-07-31",
+      "name": "Sonnenstudio El Sol Düsseldorf-Zentrum",
+      "city": "Düsseldorf",
+      "niche": "Kosmetikstudio",
+      "phone": "+49 211 9945184",
+      "rating": 4.6,
+      "reviews": 182,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_sonnenstudio_el_sol_d__3188.html"
+    },
+    {
+      "date": "2026-07-31",
+      "name": "Hihi.nails",
+      "city": "Düsseldorf",
+      "niche": "Kosmetikstudio",
+      "phone": "+49 211 93078208",
+      "rating": 4.6,
+      "reviews": 0,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_hihi_nails_8160.html"
+    },
+    {
+      "date": "2026-07-31",
+      "name": "NoNameBoxX (US) Car-Service",
+      "city": "Stuttgart",
+      "niche": "KFZ-Meisterbetrieb",
+      "phone": "+49 7151 9860235",
+      "rating": 4.8,
+      "reviews": 0,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_nonameboxx__us__car_se_4172.html"
+    },
+    {
+      "date": "2026-07-31",
+      "name": "Sanku Maots'ai 三顾冒菜",
+      "city": "Stuttgart",
+      "niche": "Restaurant",
+      "phone": "+49 711 99778196",
+      "rating": 4.6,
+      "reviews": 0,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_sanku_maots_ai______2820.html"
+    },
+    {
+      "date": "2026-07-31",
+      "name": "Weiler Hof",
+      "city": "Stuttgart",
+      "niche": "Restaurant",
+      "phone": "Auf Anfrage",
+      "rating": 4.6,
+      "reviews": 13,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_weiler_hof_1267.html"
+    },
+    {
+      "date": "2026-07-31",
+      "name": "Ristorante Bellagio By Rene",
+      "city": "Stuttgart",
+      "niche": "Restaurant",
+      "phone": "+49 711 50482235",
+      "rating": 3.2,
+      "reviews": 29,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_ristorante_bellagio_by_6140.html"
+    },
+    {
+      "date": "2026-07-31",
+      "name": "Gaststätte Himmerreich",
+      "city": "Stuttgart",
+      "niche": "Restaurant",
+      "phone": "+49 711 6993150",
+      "rating": 4.1,
+      "reviews": 0,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_gastst_tte_himmerreich_1098.html"
+    },
+    {
+      "date": "2026-07-31",
+      "name": "Trippel M American Diner",
+      "city": "Stuttgart",
+      "niche": "Restaurant",
+      "phone": "+49 711 25510227",
+      "rating": 4.1,
+      "reviews": 0,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_trippel_m_american_din_3780.html"
+    },
+    {
+      "date": "2026-07-31",
+      "name": "Herr Dr. med. dent. Jürgen Laufs",
+      "city": "Düsseldorf",
+      "niche": "Zahnarzt Praxis",
+      "phone": "+49 211 743039",
+      "rating": 4.1,
+      "reviews": 0,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_herr_dr__med__dent__j__1920.html"
+    },
+    {
+      "date": "2026-07-31",
+      "name": "Zahnarzt Dr. med. dent. Sebastian Winkler",
+      "city": "Düsseldorf",
+      "niche": "Zahnarzt Praxis",
+      "phone": "+49 2137 999230",
+      "rating": 3.6,
+      "reviews": 0,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_zahnarzt_dr__med__dent_2621.html"
+    },
+    {
+      "date": "2026-07-31",
+      "name": "Sonnenstudio El Sol Düsseldorf-Zentrum",
+      "city": "Düsseldorf",
+      "niche": "Kosmetikstudio",
+      "phone": "+49 211 9945184",
+      "rating": 4.6,
+      "reviews": 182,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_sonnenstudio_el_sol_d__3188.html"
+    },
+    {
+      "date": "2026-07-31",
+      "name": "Hihi.nails",
+      "city": "Düsseldorf",
+      "niche": "Kosmetikstudio",
+      "phone": "+49 211 93078208",
+      "rating": 4.6,
+      "reviews": 0,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_hihi_nails_8160.html"
     }
   ],
   "backlinks_sent": [
