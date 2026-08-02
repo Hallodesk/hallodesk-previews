@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-01 10:16:23",
+  "last_updated": "2026-08-02 10:11:13",
   "website_leads": [
     {
       "date": "2026-07-24",
@@ -1078,6 +1078,226 @@
       "reviews": 16,
       "status": "Preview Deployed — Email Pending",
       "url": "https://hallodesk.github.io/hallodesk-previews/preview_coiffeur_am_ring_2960.html"
+    },
+    {
+      "date": "2026-08-02",
+      "name": "Gasthof Zschieren",
+      "city": "Dresden",
+      "niche": "Restaurant",
+      "phone": "+49 351 5014375",
+      "rating": 4.3,
+      "reviews": 0,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_gasthof_zschieren_3462.html"
+    },
+    {
+      "date": "2026-08-02",
+      "name": "Greco Latino",
+      "city": "Dresden",
+      "niche": "Restaurant",
+      "phone": "+49 351 8033123",
+      "rating": 4.4,
+      "reviews": 0,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_greco_latino_5244.html"
+    },
+    {
+      "date": "2026-08-02",
+      "name": "Singha",
+      "city": "Dresden",
+      "niche": "Restaurant",
+      "phone": "+49 351 4852298",
+      "rating": 4.3,
+      "reviews": 0,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_singha_2419.html"
+    },
+    {
+      "date": "2026-08-02",
+      "name": "Goldne Weintraube",
+      "city": "Dresden",
+      "niche": "Restaurant",
+      "phone": "+49 351 8954480",
+      "rating": 3.9,
+      "reviews": 0,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_goldne_weintraube_5908.html"
+    },
+    {
+      "date": "2026-08-02",
+      "name": "Couscous Haus",
+      "city": "Dresden",
+      "niche": "Restaurant",
+      "phone": "+49 1520 4329227",
+      "rating": 4.9,
+      "reviews": 0,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_couscous_haus_3861.html"
+    },
+    {
+      "date": "2026-08-02",
+      "name": "Gasthaus Wesenitztal mit flexiblen Schließzeiten",
+      "city": "Dresden",
+      "niche": "Restaurant",
+      "phone": "+49 3501 523235",
+      "rating": 4.2,
+      "reviews": 0,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_gasthaus_wesenitztal_m_1099.html"
+    },
+    {
+      "date": "2026-08-02",
+      "name": "Royal Punjab Indian Restaurant Dresden",
+      "city": "Dresden",
+      "niche": "Restaurant",
+      "phone": "+49 351 32991530",
+      "rating": 4.3,
+      "reviews": 0,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_royal_punjab_indian_re_1393.html"
+    },
+    {
+      "date": "2026-08-02",
+      "name": "Elektro Schulze",
+      "city": "Dresden",
+      "niche": "Elektriker",
+      "phone": "+49 351 8580374",
+      "rating": 3.3,
+      "reviews": 3,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_elektro_schulze_5255.html"
+    },
+    {
+      "date": "2026-08-02",
+      "name": "Friseurgenossenschaft Ihr Friseur eG",
+      "city": "Dresden",
+      "niche": "Friseursalon",
+      "phone": "+49 351 8580165",
+      "rating": 4.5,
+      "reviews": 26,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_friseurgenossenschaft__3617.html"
+    },
+    {
+      "date": "2026-08-02",
+      "name": "Friseur- u. Kosmetiksalon Annett",
+      "city": "Dresden",
+      "niche": "Friseursalon",
+      "phone": "+49 351 4713554",
+      "rating": 4.5,
+      "reviews": 0,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_friseur__u__kosmetiksa_4142.html"
+    },
+    {
+      "date": "2026-08-02",
+      "name": "Gasthof Zschieren",
+      "city": "Dresden",
+      "niche": "Restaurant",
+      "phone": "+49 351 5014375",
+      "rating": 4.3,
+      "reviews": 0,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_gasthof_zschieren_3462.html"
+    },
+    {
+      "date": "2026-08-02",
+      "name": "Greco Latino",
+      "city": "Dresden",
+      "niche": "Restaurant",
+      "phone": "+49 351 8033123",
+      "rating": 4.4,
+      "reviews": 0,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_greco_latino_5244.html"
+    },
+    {
+      "date": "2026-08-02",
+      "name": "Singha",
+      "city": "Dresden",
+      "niche": "Restaurant",
+      "phone": "+49 351 4852298",
+      "rating": 4.3,
+      "reviews": 0,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_singha_2419.html"
+    },
+    {
+      "date": "2026-08-02",
+      "name": "Goldne Weintraube",
+      "city": "Dresden",
+      "niche": "Restaurant",
+      "phone": "+49 351 8954480",
+      "rating": 3.9,
+      "reviews": 0,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_goldne_weintraube_5908.html"
+    },
+    {
+      "date": "2026-08-02",
+      "name": "Couscous Haus",
+      "city": "Dresden",
+      "niche": "Restaurant",
+      "phone": "+49 1520 4329227",
+      "rating": 4.9,
+      "reviews": 0,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_couscous_haus_3861.html"
+    },
+    {
+      "date": "2026-08-02",
+      "name": "Gasthaus Wesenitztal mit flexiblen Schließzeiten",
+      "city": "Dresden",
+      "niche": "Restaurant",
+      "phone": "+49 3501 523235",
+      "rating": 4.2,
+      "reviews": 0,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_gasthaus_wesenitztal_m_1099.html"
+    },
+    {
+      "date": "2026-08-02",
+      "name": "Royal Punjab Indian Restaurant Dresden",
+      "city": "Dresden",
+      "niche": "Restaurant",
+      "phone": "+49 351 32991530",
+      "rating": 4.3,
+      "reviews": 0,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_royal_punjab_indian_re_1393.html"
+    },
+    {
+      "date": "2026-08-02",
+      "name": "Elektro Schulze",
+      "city": "Dresden",
+      "niche": "Elektriker",
+      "phone": "+49 351 8580374",
+      "rating": 3.3,
+      "reviews": 3,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_elektro_schulze_5255.html"
+    },
+    {
+      "date": "2026-08-02",
+      "name": "Friseurgenossenschaft Ihr Friseur eG",
+      "city": "Dresden",
+      "niche": "Friseursalon",
+      "phone": "+49 351 8580165",
+      "rating": 4.5,
+      "reviews": 26,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_friseurgenossenschaft__3617.html"
+    },
+    {
+      "date": "2026-08-02",
+      "name": "Friseur- u. Kosmetiksalon Annett",
+      "city": "Dresden",
+      "niche": "Friseursalon",
+      "phone": "+49 351 4713554",
+      "rating": 4.5,
+      "reviews": 0,
+      "status": "Preview Deployed — Email Pending",
+      "url": "https://hallodesk.github.io/hallodesk-previews/preview_friseur__u__kosmetiksa_4142.html"
     }
   ],
   "backlinks_sent": [
